@@ -26,7 +26,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/HotelManagementSystem.git
+git clone https://github.com/Dushyant3103/Hotel_ManagementSys
 cd HotelManagementSystem
 Set up the database:
 
